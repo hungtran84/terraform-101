@@ -13,4 +13,3 @@
 ```sh
 brew install terraform
 ```
-
